@@ -1,7 +1,7 @@
-1. Find the `DeviceProperty` path of your GPU, with `gfxutil` that can be found [here](https://github.com/acidanthera/gfxutil/releases/download/1.80b/gfxutil-1.80b-RELEASE.zip) it should be something like: 
+Actually there's not a guide for that, the steps can be summarised as:
 
-```
-```
+
+1. Find the `DeviceProperty` path of your GPU, with `gfxutil` that can be found [here](https://github.com/acidanthera/gfxutil/releases/download/1.80b/gfxutil-1.80b-RELEASE.zip) 
 
 The syntax for `gfxutil` is `./gfxutil -f GFX0`, for me that I have a laptop the result is
 
